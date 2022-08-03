@@ -1,11 +1,11 @@
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
+    <div>
+      <div style={{ padding: 20 }}>
+        <text style={{ fontSize : 35}}>
           Hello World
-        </p>
-      </header>
+        </text>
+      </div>
     </div>
   );
 }
